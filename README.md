@@ -14,6 +14,6 @@ Whether you need a quick link QR code or a ready-to-share PDF file, QR Code Gene
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0cddc498-0763-4a71-b7ac-123ed0744686" width="200" alt="Start Screen" />
-  <img src="https://github.com/user-attachments/assets/0666d1b2-6a37-40f6-b785-86f397157356" width="200" alt="Menu Screen" />
+  <img src="assets/Main Screen.png" width="200" alt="Main Screen" />
+  <img src="assets/QR Screen.png" width="200" alt="QR Screen" />
 </p>
