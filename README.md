@@ -18,9 +18,3 @@ Whether you need a quick link QR code or a ready-to-share PDF file, QR Code Gene
   <img src="assets/QR Screen.png" width="500" alt="QR Screen" />
 </p>
 
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Arun-Lab1/QR-Code-Generator.git](https://github.com/Arun-Lab1/QR-Code-Generator.git)
-   cd QR-Code-Generator
