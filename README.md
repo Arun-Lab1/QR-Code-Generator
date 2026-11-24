@@ -22,5 +22,5 @@ Whether you need a quick link QR code or a ready-to-share PDF file, QR Code Gene
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Arun-Lab1/QR-Code-Generator.git](https://github.com/Arun-Lab1/QR-Code-Generator.git)
+   cd QR-Code-Generator
