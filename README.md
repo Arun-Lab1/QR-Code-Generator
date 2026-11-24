@@ -14,6 +14,13 @@ Whether you need a quick link QR code or a ready-to-share PDF file, QR Code Gene
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/Main Screen.png" width="200" alt="Main Screen" />
-  <img src="assets/QR Screen.png" width="200" alt="QR Screen" />
+  <img src="assets/Main Screen.png" width="500" alt="Main Screen" />
+  <img src="assets/QR Screen.png" width="500" alt="QR Screen" />
 </p>
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   cd your-repo-name
